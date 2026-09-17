@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nigamayushnigam3-star/SQL_LeetcodeQuestions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nigamayushnigam3-star/SQL_LeetcodeQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/nigamayushnigam3-star/SQL_LeetcodeQuestions/tree/master/0189-rotate-array) |
 ## Two Pointers
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/nigamayushnigam3-star/SQL_LeetcodeQuestions/tree/master/0189-rotate-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/nigamayushnigam3-star/SQL_LeetcodeQuestions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
