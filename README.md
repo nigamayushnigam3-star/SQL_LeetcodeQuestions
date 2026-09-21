@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nigamayushnigam3-star/SQL_LeetcodeQuestions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/nigamayushnigam3-star/SQL_LeetcodeQuestions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nigamayushnigam3-star/SQL_LeetcodeQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/nigamayushnigam3-star/SQL_LeetcodeQuestions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nigamayushnigam3-star/SQL_LeetcodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -84,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/nigamayushnigam3-star/SQL_LeetcodeQuestions/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/nigamayushnigam3-star/SQL_LeetcodeQuestions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/nigamayushnigam3-star/SQL_LeetcodeQuestions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
