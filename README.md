@@ -38,12 +38,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/nigamayushnigam3-star/SQL_LeetcodeQuestions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/nigamayushnigam3-star/SQL_LeetcodeQuestions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/nigamayushnigam3-star/SQL_LeetcodeQuestions/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nigamayushnigam3-star/SQL_LeetcodeQuestions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/nigamayushnigam3-star/SQL_LeetcodeQuestions/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/nigamayushnigam3-star/SQL_LeetcodeQuestions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/nigamayushnigam3-star/SQL_LeetcodeQuestions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/nigamayushnigam3-star/SQL_LeetcodeQuestions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nigamayushnigam3-star/SQL_LeetcodeQuestions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Trie
