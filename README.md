@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/nigamayushnigam3-star/SQL_LeetcodeQuestions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/nigamayushnigam3-star/SQL_LeetcodeQuestions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nigamayushnigam3-star/SQL_LeetcodeQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/nigamayushnigam3-star/SQL_LeetcodeQuestions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/nigamayushnigam3-star/SQL_LeetcodeQuestions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nigamayushnigam3-star/SQL_LeetcodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/nigamayushnigam3-star/SQL_LeetcodeQuestions/tree/master/0268-missing-number) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/nigamayushnigam3-star/SQL_LeetcodeQuestions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nigamayushnigam3-star/SQL_LeetcodeQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nigamayushnigam3-star/SQL_LeetcodeQuestions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/nigamayushnigam3-star/SQL_LeetcodeQuestions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/nigamayushnigam3-star/SQL_LeetcodeQuestions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/nigamayushnigam3-star/SQL_LeetcodeQuestions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/nigamayushnigam3-star/SQL_LeetcodeQuestions/tree/master/0344-reverse-string) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/nigamayushnigam3-star/SQL_LeetcodeQuestions/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/nigamayushnigam3-star/SQL_LeetcodeQuestions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nigamayushnigam3-star/SQL_LeetcodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/nigamayushnigam3-star/SQL_LeetcodeQuestions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nigamayushnigam3-star/SQL_LeetcodeQuestions/tree/master/0268-missing-number) |
